@@ -1,4 +1,10 @@
-<details><summary>Git Basics</summary>#### Passed
+# Stage 0
+
+---
+
+## General
+
+<details><summary>1. Git Basics</summary>
 
 At first I was confused by git and all these commands, especially when the examples were given in Python. Now, after a two-week course and watching additional videos, it became more clear to me. I hope to become a confident git user when working on my future projects.
 I have passed all nesessary tasks at [learngitbranching.js.org](https://learngitbranching.js.org/). Screenshots are [here](https://github.com/yuliaMasliak/kottans-frontend/tree/main/git_basic).</details>
