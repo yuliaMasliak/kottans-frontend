@@ -1,7 +1,8 @@
 # Git Basics
 
 Passed.
-First I was confused about git and all these commands, now it has become more clear for me. Hope to become confident git user during using it while working under the projects.
-I have passed all nesessary tasks [learngitbranching.js.org](https://learngitbranching.js.org/).
+At first I was confused by git and all these commands, especially when the examples were given in Python. Now, after a two-week course and watching additional videos, it became more clear to me. I hope to become a confident git user when working on my future projects.
+I have passed all nesessary tasks at [learngitbranching.js.org](https://learngitbranching.js.org/).
 
-- ![Git Basic-test](https://github.com/yuliaMasliak/kottans-frontend/blob/main/git_basics/screenshot1)
+- ![Git Basic-test](https://github.com/yuliaMasliak/kottans-frontend/blob/main/Git_Basics/Screenshot1.pngs)
+- ![Git Basic-test2](https://github.com/yuliaMasliak/kottans-frontend/blob/main/Git_Basics/Screenshot2.png)
