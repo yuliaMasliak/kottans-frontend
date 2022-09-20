@@ -8,10 +8,12 @@ At first I was confused by git and all these commands, especially when the examp
 I have passed all nesessary tasks at [learngitbranching.js.org](https://learngitbranching.js.org/). Screenshots are [here](https://github.com/yuliaMasliak/kottans-frontend/tree/main/git_basic).</details>
 
 <details><summary>2. Linux CLI, and HTTP</summary>
-- [Quiz 1](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz1.png)
-- [Quiz 2](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz2.png)
-- [Quiz 3](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz3.png)
-- [Quiz 4](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz4.png)
+
+![Quiz1](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz1.png)
+![Quiz2](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz2.png)
+![Quiz3](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz3.png)
+![Quiz4](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz4.png)
+
 </details>
 
 ---
