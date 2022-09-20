@@ -1,5 +1,6 @@
-```{toggle} # Git Basics
-:show:
+```{toggle}
+# Git Basics
+
 #### Passed
 
 At first I was confused by git and all these commands, especially when the examples were given in Python. Now, after a two-week course and watching additional videos, it became more clear to me. I hope to become a confident git user when working on my future projects.
