@@ -9,7 +9,7 @@ I have passed all nesessary tasks at [learngitbranching.js.org](https://learngit
 
 <details><summary>2. Linux CLI, and HTTP</summary>
 <details><summary>Quiz 1</summary>
-![quiz](./main/assets/task_linux_cli/quiz1.png)</details>
+![quiz](./main/task_linux_cli/quiz1.png)</details>
 <details><summary>Quiz 2</summary>
 ![quiz](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz2.png)</details>
 <details><summary>Quiz 3</summary>
