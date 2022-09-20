@@ -9,13 +9,13 @@ I have passed all nesessary tasks at [learngitbranching.js.org](https://learngit
 
 <details><summary>2. Linux CLI, and HTTP</summary>
 <details><summary>Quiz 1</summary>
-![quiz](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz1.png)<details>
+![quiz](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz1.png)</details>
 <details><summary>Quiz 2</summary>
-![quiz](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz2.png)<details>
+![quiz](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz2.png)</details>
 <details><summary>Quiz 3</summary>
-![quiz](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz3.png)<details>
+![quiz](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz3.png)</details>
 <details><summary>Quiz 4</summary>
-![quiz](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz4.png)<details>
+![quiz](https://github.com/yuliaMasliak/kottans-frontend/blob/main/task_linux_cli/quiz4.png)</details>
 </details>
 
 ---
